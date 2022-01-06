@@ -1,7 +1,7 @@
 <h1 align="center">RockShoes, ecommerce de tenis esportivos</h1>
 <p>Projeto em React usando Redux</p>
 
-<img src="https://raw.githubusercontent.com/eduardonk9999/buscaderepositorios/master/imgtela.png" />
+<img src="" />
 
 
 ## 🛠 Tecnologias
