@@ -1,6 +1,16 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import GlobalStyle from './styles/global';
+import Header from './components/Header';
+import Routs from './routes';
 
 function App() {
-  return <h1>RKC SHOES22</h1>;
+  return (
+    <BrowserRouter>
+      <Header />
+      <GlobalStyle />
+      <Routs />
+    </BrowserRouter>
+  );
 }
 export default App;
